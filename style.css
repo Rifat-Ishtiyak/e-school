@@ -12,3 +12,43 @@ body{
     background-color: #21B573;
     border-radius: 40px;
 }
+
+.nav-link:hover{
+    color: #21B573;
+    transform: scale(1.1);
+}
+
+.upper-text{
+    color: #FD511A;
+    font-weight: 400;
+}
+
+.header-text{
+    font-weight: 700;
+    font-size: 46pt;
+    margin-bottom: 0px;
+}
+
+.green-text{
+    color: #21B573;
+}
+
+.green-button{
+    color: white;
+    background-color: #21B573;
+    padding: 10px 30px;
+    border-radius: 40px;
+    text-decoration: none;
+    font-weight: 400;
+    border: 2px solid #21B573;
+}
+
+.green-button:hover{
+    color:#21B573;
+    border: 2px solid #21B573;
+    background-color: white;
+}
+
+.main-header{
+    height: 90vh;
+}
