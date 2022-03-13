@@ -63,3 +63,20 @@ li a:hover{
 .main-header{
     height: 90vh;
 }
+
+.cards{
+    background-color: #F0FFF0;
+    border-radius: 10px;
+    transition: transform 0.4s;
+}
+
+.cards:hover{
+    transform: scale(1.1);
+    background-color: white;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+}
+
+.cards .img-div{
+    height: 130px;
+}
