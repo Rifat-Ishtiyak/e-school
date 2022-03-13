@@ -93,8 +93,20 @@ li a:hover{
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
 
-
 .card-footer{
     background-color: white;
     border: none;
+}
+
+.testimonial-text{
+    text-align: justify;
+}
+
+.footer-user{
+    text-decoration: none;
+    color: white;
+}
+
+.footer-user:hover{
+    color: #21B573;
 }
