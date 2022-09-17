@@ -8,6 +8,10 @@ body{
     background-color: #F0FFF0;
     height: 100vh;
 }
+
+.top-header{
+    height: 100%;
+}
 .green-button-nav{
     color: white !important;
     background-color: #21B573;
