@@ -6,6 +6,7 @@ body{
 
 .top-section{
     background-color: #F0FFF0;
+    height: 100vh;
 }
 .green-button-nav{
     color: white !important;
@@ -109,4 +110,13 @@ li a:hover{
 
 .footer-user:hover{
     color: #21B573;
+}
+
+
+@media only screen and (max-width: 576px) {
+    .header-text{
+        font-weight: 700;
+        font-size: 38pt;
+        margin-bottom: 0px;
+    }
 }
